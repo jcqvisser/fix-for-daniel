@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jcqvisser/fix-for-daniel/issues"
   },
-  "homepage": "https://github.com/jcqvisser/fix-for-daniel#readme"
+  "homepage": "https://github.com/jcqvisser/fix-for-daniel#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
